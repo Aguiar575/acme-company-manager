@@ -1,7 +1,7 @@
 ﻿using ACM.BL;
 using Xunit;
 
-namespace ACM.BLTest
+namespace ACM.Tests.BLTest
 {
   public class ProductRepositoryTest
   {

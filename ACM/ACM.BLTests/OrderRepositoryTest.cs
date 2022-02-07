@@ -2,7 +2,7 @@
 using System;
 using Xunit;
 
-namespace ACM.BLTest
+namespace ACM.Tests.BLTest
 {
   public class OrderRepositoryTests
   {
